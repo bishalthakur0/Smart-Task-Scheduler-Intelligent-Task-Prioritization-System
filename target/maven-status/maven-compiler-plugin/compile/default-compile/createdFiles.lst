@@ -1,0 +1,8 @@
+com\taskscheduler\storage\StorageManager$LocalDateTimeAdapter.class
+com\taskscheduler\scheduler\TaskScheduler.class
+com\taskscheduler\storage\StorageManager.class
+com\taskscheduler\manager\TaskManager.class
+com\taskscheduler\SmartTaskSchedulerWebAppApplication.class
+com\taskscheduler\storage\StorageManager$1.class
+com\taskscheduler\TaskController.class
+com\taskscheduler\model\Task.class

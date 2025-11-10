@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Java Assignment",
+    "priority": 5,
+    "deadline": "2025-11-12T17:00:00",
+    "duration": 120,
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "title": "Prepare Sprint Demo",
+    "priority": 4,
+    "deadline": "2025-11-11T15:00:00",
+    "duration": 90,
+    "isCompleted": false
+  },
+  {
+    "id": 3,
+    "title": "Daily Exercise",
+    "priority": 2,
+    "deadline": "2025-11-10T20:00:00",
+    "duration": 45,
+    "isCompleted": true
+  },
+  {
+    "id": 4,
+    "title": "Complete Java Assignment",
+    "priority": 5,
+    "deadline": "2025-11-10T22:15:33.6769576",
+    "duration": 120,
+    "isCompleted": false
+  },
+  {
+    "id": 5,
+    "title": "Prepare Sprint Demo",
+    "priority": 4,
+    "deadline": "2025-11-11T01:15:33.6769576",
+    "duration": 90,
+    "isCompleted": false
+  },
+  {
+    "id": 6,
+    "title": "Daily Exercise",
+    "priority": 2,
+    "deadline": "2025-11-11T07:15:33.6769576",
+    "duration": 45,
+    "isCompleted": false
+  },
+  {
+    "id": 7,
+    "title": "Review Code Pull Request",
+    "priority": 3,
+    "deadline": "2025-11-10T21:15:33.6769576",
+    "duration": 30,
+    "isCompleted": false
+  },
+  {
+    "id": 8,
+    "title": "Team Meeting Preparation",
+    "priority": 4,
+    "deadline": "2025-11-11T03:15:33.6769576",
+    "duration": 60,
+    "isCompleted": false
+  },
+  {
+    "id": 9,
+    "title": "gym",
+    "priority": 2,
+    "deadline": "2025-11-12T23:59:00",
+    "duration": 20,
+    "isCompleted": false
+  }
+]
